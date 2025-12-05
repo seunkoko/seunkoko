@@ -18,5 +18,5 @@ Frontend  | React, Next.js, TypeScript, JavaScript (ES6+), SASS/SCSS
 Styling   | Tailwind CSS, Custom CSS Modules, Styled-Components
 Backend   | Node.js, Express.js, Golang, Python/Flask, RESTful API Design
 Databases | MongoDB (Mongoose), PostgreSQL, MySQL, Supabase, Firebase, Redis
-Tools & Devops | Git, GitHub Actions, Vercel, Postman, Docker, Jest/Vitest
+Tools & Devops | Git, GitHub Actions, Postman, Docker, Jest/Vitest
 Concepts | Clean Code, Scalability, Performance Optimization, TDD
